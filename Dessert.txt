@@ -1,0 +1,20 @@
+Brownies,flour,cocoa powder,unsalted butter,sugar,eggs,vanilla,salt,chocolate chips,heavy cream
+Cookies,flour,baking powder,baking soda,salt,butter,sugar,eggs,sour cream ,vanilla,milk
+vanilla cake with strawberry,strawberry,water,sugar,salt,lemon juice,food coloring,heavy whipping cream,cream cheese,vanilla,butter,coconut oil,egg white,butter milk
+caramel pretzels,pretzels,butter,suger,water,salt,vanilla
+pumpkin pie,sugar,eggs,salt,cinnamon,ginger,pumpkin puree,heavy cream,whipped cream
+berries tiramisu,heavy cream,blueberries,raspberries,strawberries,mascarpone,chambered,vanilla,strawberry,suger
+Red velvet cake, flour,cocoa powder,baking soda,salt, butter,oil,sugar,sour cream, milk, eggs,vanilla,cream cheese
+black chocolate, flour,suger,cocoa powder,salt,butter milk,oil,eggs,vanilla,coffee,
+Apple cupcakes, flour,baking soda,baking powder,salt,cinnamon,suger,eggs,milk,vanilla,apple
+chocolate cake,sugar,flour,cocoa powder,baking powder,baking soda,salt,eggs,butter milk,oil,vanilla
+spanish flan,sugar,eggs,sweetened milk,milk,vanilla
+custard,milk,vanilla,butter,eggs,suger,corn strace
+banana pudding,cream cheese,sweetened milk,vanilla,milk,whipped topping,vanilla wafers,banana sliced
+creme brulee,eggs,sugar,vanilla,cream,brown sugar
+blackberry crumble bars,blackberry jam,fresh black berries,sugar,salt
+strawberry ice cream,strawberries,milk,cream,sugar,vanilla,food coloring
+lemon blueberry cake,flour,baking powder, lemon,sugar,eggs,sour cream,oil,vanilla,salt,butter,berries
+dark chocolate mouse,dark chocolate,butter,water,salt,eggs,sugar,heavy cream,whipped cream,cocoa powder
+eclair cake,milk,whipped cream,vanilla,cracker,chocolate
+tropical mango trifle,mango,suger,lemon juice,salt,butter,milk,coconut,vanilla,whipped cream
